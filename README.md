@@ -6,7 +6,7 @@
 Source: https://www.youtube.com/watch?v=AayXf5aRFTI  
 Git: [Key-and-Pin-Decoding/Key Measurements at master · deviantollam/Key-and-Pin-Decoding (github.com)](https://github.com/deviantollam/Key-and-Pin-Decoding/tree/master/Key%20Measurements)  
 
-![280724123_10103770369446904_8248555748005812619_n](https://user-images.githubusercontent.com/64992493/169628531-53fbbf06-cfac-43fa-bc6a-b2de97ab3952.jpg)
+![280724123_10103770369446904_8248555748005812619_n](https://user-images.githubusercontent.com/64992493/169628531-53fbbf06-cfac-43fa-bc6a-b2de97ab3952.jpg)  
 
 
 ## **Steps:**
@@ -18,7 +18,7 @@ Git: [Key-and-Pin-Decoding/Key Measurements at master · deviantollam/Key-and-Pi
 
 ---
 ## Additional **Info:**
-**Direct Bitting Code -**
+**Direct Bitting Code -**  
 If a key has a number on it (stamped), that is most likely a **direct bitting code**, a code to replicate it with no effort. (The literal bitting to recreate)
 
 **Blind Code -**
@@ -31,17 +31,17 @@ If it's an uncommon key (corporate, rare, or specialized) you can have issues fi
 
 Your photo can also be **absolute dogshit,** video, etc but will need more post-processing and effort.
 
-**Example dogshit photo with resulting code**
+**Example dogshit photo with resulting code**  
 
-<img width="405" alt="Pasted image 20220518143013" src="https://user-images.githubusercontent.com/64992493/169628585-d572c6d9-5a63-44ef-87eb-4fe79c097dc7.png">
+<img width="405" alt="Pasted image 20220518143013" src="https://user-images.githubusercontent.com/64992493/169628585-d572c6d9-5a63-44ef-87eb-4fe79c097dc7.png">  
 
-**Common Key Types**
-<img width="405" alt="image" src="https://user-images.githubusercontent.com/64992493/169628742-054cdcd4-1b30-410f-aa3a-620f4f284235.png">
+**Common Key Types**  
+<img width="405" alt="image" src="https://user-images.githubusercontent.com/64992493/169628742-054cdcd4-1b30-410f-aa3a-620f4f284235.png">  
 
-**Blind Codes**
-<img width="405" alt="Pasted image 20220518144711" src="https://user-images.githubusercontent.com/64992493/169628567-0e1f993b-fbfb-446c-b4b6-acae39771f24.png">
+**Blind Codes**   
+<img width="405" alt="Pasted image 20220518144711" src="https://user-images.githubusercontent.com/64992493/169628567-0e1f993b-fbfb-446c-b4b6-acae39771f24.png">  
 
 
-**Keyway Profile**
-<img width="405" alt="Pasted image 20220518151626" src="https://user-images.githubusercontent.com/64992493/169628557-ddf5a3a1-e149-4d3f-9f1f-0d01ee7a1dce.png">
+**Keyway Profile**  
+<img width="405" alt="Pasted image 20220518151626" src="https://user-images.githubusercontent.com/64992493/169628557-ddf5a3a1-e149-4d3f-9f1f-0d01ee7a1dce.png">  
 
