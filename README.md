@@ -36,8 +36,7 @@ Your photo can also be **absolute dogshit,** video, etc but will need more post-
 <img width="405" alt="Pasted image 20220518143013" src="https://user-images.githubusercontent.com/64992493/169628585-d572c6d9-5a63-44ef-87eb-4fe79c097dc7.png">
 
 **Common Key Types**
-
-![Pasted image 20220519142606](https://user-images.githubusercontent.com/64992493/169628540-3cc1acd8-9258-4eeb-a124-e3a1cff408b0.png)
+<img width="405" alt="image" src="https://user-images.githubusercontent.com/64992493/169628742-054cdcd4-1b30-410f-aa3a-620f4f284235.png">
 
 **Blind Codes**
 <img width="405" alt="Pasted image 20220518144711" src="https://user-images.githubusercontent.com/64992493/169628567-0e1f993b-fbfb-446c-b4b6-acae39771f24.png">
