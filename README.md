@@ -1,7 +1,6 @@
 # Key-Recreation
 
 ## Easily Copy Keys from Photos   
-#keys #doors #pentesting  
 
 Source: https://www.youtube.com/watch?v=AayXf5aRFTI  
 Git: [Key-and-Pin-Decoding/Key Measurements at master · deviantollam/Key-and-Pin-Decoding (github.com)](https://github.com/deviantollam/Key-and-Pin-Decoding/tree/master/Key%20Measurements)  
