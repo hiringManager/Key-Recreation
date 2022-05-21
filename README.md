@@ -1,12 +1,12 @@
 # Key-Recreation
 
-## Easily Copy Keys from Photos
-#keys #doors #pentesting
+## Easily Copy Keys from Photos   
+#keys #doors #pentesting  
 
-Source: https://www.youtube.com/watch?v=AayXf5aRFTI
-Git: [Key-and-Pin-Decoding/Key Measurements at master · deviantollam/Key-and-Pin-Decoding (github.com)](https://github.com/deviantollam/Key-and-Pin-Decoding/tree/master/Key%20Measurements)
+Source: https://www.youtube.com/watch?v=AayXf5aRFTI  
+Git: [Key-and-Pin-Decoding/Key Measurements at master · deviantollam/Key-and-Pin-Decoding (github.com)](https://github.com/deviantollam/Key-and-Pin-Decoding/tree/master/Key%20Measurements)  
 
-![](Pasted%20image%2020220518152945.png)
+![](Pasted%20image%2020220518152945.png)  
 
 ## **Steps:**
 + Grab image of key (try to align photo directly above or place on graph paper)
