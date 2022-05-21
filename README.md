@@ -32,9 +32,11 @@ If it's an uncommon key (corporate, rare, or specialized) you can have issues fi
 Your photo can also be **absolute dogshit,** video, etc but will need more post-processing and effort.
 
 **Example dogshit photo with resulting code**
+
 <img width="405" alt="Pasted image 20220518143013" src="https://user-images.githubusercontent.com/64992493/169628585-d572c6d9-5a63-44ef-87eb-4fe79c097dc7.png">
 
 **Common Key Types**
+
 ![Pasted image 20220519142606](https://user-images.githubusercontent.com/64992493/169628540-3cc1acd8-9258-4eeb-a124-e3a1cff408b0.png)
 
 **Blind Codes**
