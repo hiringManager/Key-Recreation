@@ -6,7 +6,8 @@
 Source: https://www.youtube.com/watch?v=AayXf5aRFTI  
 Git: [Key-and-Pin-Decoding/Key Measurements at master · deviantollam/Key-and-Pin-Decoding (github.com)](https://github.com/deviantollam/Key-and-Pin-Decoding/tree/master/Key%20Measurements)  
 
-![](Pasted%20image%2020220518152945.png)  
+![280724123_10103770369446904_8248555748005812619_n](https://user-images.githubusercontent.com/64992493/169628531-53fbbf06-cfac-43fa-bc6a-b2de97ab3952.jpg)
+
 
 ## **Steps:**
 + Grab image of key (try to align photo directly above or place on graph paper)
@@ -31,13 +32,15 @@ If it's an uncommon key (corporate, rare, or specialized) you can have issues fi
 Your photo can also be **absolute dogshit,** video, etc but will need more post-processing and effort.
 
 **Example dogshit photo with resulting code**
-![](Pasted%20image%2020220518143013.png)
+<img width="405" alt="Pasted image 20220518143013" src="https://user-images.githubusercontent.com/64992493/169628585-d572c6d9-5a63-44ef-87eb-4fe79c097dc7.png">
 
 **Common Key Types**
-![](Pasted%20image%2020220519142606.png)
+![Pasted image 20220519142606](https://user-images.githubusercontent.com/64992493/169628540-3cc1acd8-9258-4eeb-a124-e3a1cff408b0.png)
 
 **Blind Codes**
-![](Pasted%20image%2020220518144711.png)
+<img width="405" alt="Pasted image 20220518144711" src="https://user-images.githubusercontent.com/64992493/169628567-0e1f993b-fbfb-446c-b4b6-acae39771f24.png">
+
 
 **Keyway Profile**
-![](Pasted%20image%2020220518151626.png)
+<img width="405" alt="Pasted image 20220518151626" src="https://user-images.githubusercontent.com/64992493/169628557-ddf5a3a1-e149-4d3f-9f1f-0d01ee7a1dce.png">
+
